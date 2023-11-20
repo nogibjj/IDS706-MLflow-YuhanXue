@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yx167/ids706/IDS706-MLflow-YuhanXue/mlruns/0/d367a72cbdf741f19410776a605bab72/artifacts
+end_time: 1700454930942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d367a72cbdf741f19410776a605bab72
+run_name: worried-ape-566
+run_uuid: d367a72cbdf741f19410776a605bab72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700454926228
+status: 3
+tags: []
+user_id: yx167
