@@ -15,5 +15,5 @@ Use the following commands to format and lint code: `make format && make lint`.
 ## How to run
 1. In order to start the project, run `python3 main.py`. It first loads the `diabetes.csv` and extract target (i.e. `Outcome` column) and features (i.e. all other columns). It then trains a linear regression model to predict whether a person (data point) has diabetes or not. 
 2. After the training is done, run `mlflow ui` to open the user interface and view model histories and test accuracies.
-3. View saved models and artifacts in `mlrun` folder, which will be generated after running `main.py`.
+3. View saved models and artifacts in `mlrun` folder.
 
