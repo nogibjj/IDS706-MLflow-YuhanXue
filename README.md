@@ -1,6 +1,7 @@
 # IDS706-MLflow-YuhanXue
 
-![CICD](https://github.com/nogibjj/DS706-MLflow-YuhanXue/actions/workflows/cicd.yml/badge.svg)
+![format workflow](https://github.com/nogibjj/IDS706-MLflow-YuhanXue/actions/workflows/cicd.yml/badge.svg)
+
 
 This repo contain project 12. It creates a simple ML model and use MLFlow to log model specs and histories.
 
