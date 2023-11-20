@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/IDS706-MLflow-YuhanXue/IDS706-MLflow-YuhanXue/mlruns/0/054ea268174442cf91f825cf2347b341/artifacts
+end_time: 1700456903993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 054ea268174442cf91f825cf2347b341
+run_name: exultant-ox-335
+run_uuid: 054ea268174442cf91f825cf2347b341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700456902308
+status: 3
+tags: []
+user_id: runner
