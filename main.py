@@ -11,7 +11,18 @@ def main():
     and logs it with mlflow"""
     df = pd.read_csv("diabetes.csv", delimiter=",")
 
-    features = df[["Pregnancies", "Glucose", "BloodPressure", "SkinThickness", "Insulin", "BMI", "DiabetesPedigreeFunction", "Age"]]
+    features = df[
+        [
+            "Pregnancies",
+            "Glucose",
+            "BloodPressure",
+            "SkinThickness",
+            "Insulin",
+            "BMI",
+            "DiabetesPedigreeFunction",
+            "Age",
+        ]
+    ]
     target = df["Outcome"]
 
     X_train, X_test, y_train, y_test = train_test_split(
